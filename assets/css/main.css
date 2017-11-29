@@ -1,0 +1,133 @@
+body{
+	font-family: 'Quicksand', sans-serif;
+}
+
+.container1{
+	background: rgb(53, 58, 64);
+	color: white;
+	/*text-align: left;*/
+	padding: 0.5%;
+	font-size: 150%;
+}
+
+.container h4{
+	margin-left: 2%;
+}
+
+
+.listaheader{
+	list-style: none;
+	font-size: 58%;
+	text-align: left;
+	padding-left: 78%;
+
+}
+
+
+.primeraimagen{
+	background-image: url("../img/header.jpg");
+	background-size: cover;
+	padding-top: 27em;
+}
+
+#rock1{
+	color: white;
+	text-align: center;
+	top: 30%;
+	position: absolute;
+	font-size: 270%;
+
+}
+
+.container2{
+	background: white;
+	padding: 4em;
+
+}
+
+#fondorosa{
+	height: 10em;
+	width: 50em;
+	margin-left: 10%;
+	display: inline-block;
+	text-align: justify;
+}
+
+#fotorock{
+	height: 10em;
+	width: 15em;
+	margin-left: -8%;
+	display: inline-block;
+	border-radius: 50%;
+
+}
+
+
+.container10{
+	padding-left: 15em;
+}
+
+
+
+.button1, .button2, .button3{
+	margin-top: 20%;
+	background-color: grey;
+	width: 100%;
+	height: 15%;
+	padding: 0.5em;
+}
+
+
+
+#cubitos{
+	width: 200px;
+	height: 300px;
+	border: solid;
+	margin: 40px;
+}
+
+#abuelita{
+	border: solid black;
+	width: 200px;
+	height: 300px;
+	margin: 40px;
+}
+
+#helados{
+	border: solid black;
+	width: 200px;
+	height: 300px;
+	margin: 40px;
+}
+
+
+
+
+
+.cubitosimg{
+	width: 100%;
+	height: 10em;
+}
+
+.abuelitaimg{
+	width: 100%;
+	height: 10em;
+}
+
+.heladosimg{
+	width: 100%;
+	height: 10em;
+}
+
+
+
+
+
+
+
+.piepagina{
+	background: rgb(53, 58, 64);
+	padding: 0.5%;
+	color: white;
+	text-align: center;
+}
