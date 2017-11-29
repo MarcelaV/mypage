@@ -27,15 +27,17 @@ body{
 .primeraimagen{
 	background-image: url("../img/header.jpg");
 	background-size: cover;
-	padding-top: 27em;
+	padding-top: 31em;
 }
 
 #rock1{
 	color: white;
 	text-align: center;
-	top: 30%;
+	top: 69%;
 	position: absolute;
-	font-size: 270%;
+	font-size: 300%;
+	font-weight: bold;
+
 
 }
 
@@ -73,7 +75,7 @@ body{
 	margin-top: 20%;
 	background-color: grey;
 	width: 100%;
-	height: 15%;
+	height: 10%;
 	padding: 0.5em;
 }
 
@@ -81,7 +83,7 @@ body{
 
 #cubitos{
 	width: 200px;
-	height: 300px;
+	height: 400px;
 	border: solid;
 	margin: 40px;
 }
@@ -89,14 +91,14 @@ body{
 #abuelita{
 	border: solid black;
 	width: 200px;
-	height: 300px;
+	height: 400px;
 	margin: 40px;
 }
 
 #helados{
 	border: solid black;
 	width: 200px;
-	height: 300px;
+	height: 400px;
 	margin: 40px;
 }
 
